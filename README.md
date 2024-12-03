@@ -1,6 +1,6 @@
 # Description
 
-This repository contains a simple python project. It is designed to help manage various projects, such as managing a bank manager, inventory system, etc.
+This repository contains a simple python project. This system will allow users to manage student records using a Hash Table, Binary Search Tree (BST), and a Heap (Priority Queue) for efficient searching, sorting, and prioritization of students. 
 
 # License
 
